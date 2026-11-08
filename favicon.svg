@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Shakti">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f8e4b8"/>
+      <stop offset="1" stop-color="#cf9d43"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="#0e080d"/>
+  <circle cx="32" cy="32" r="28.4" fill="none" stroke="#d9b36a" stroke-opacity=".34" stroke-width="1"/>
+  <g transform="matrix(0.05082 0 0 -0.05082 11.6703 48.4571)"><path d="M136 149Q96 149 66.0 170.0Q36 191 36 234Q36 269 58.0 290.5Q80 312 120 312Q141 312 165.0 304.0Q189 296 214 278Q255 297 280.5 335.0Q306 373 306 429Q306 482 283.0 508.0Q260 534 225 534Q205 534 193.0 524.5Q181 515 181 497Q181 478 201.0 462.0Q221 446 279 439L251 349Q150 358 102.5 400.0Q55 442 55 500Q55 557 97.5 594.5Q140 632 221 632Q279 632 328.5 610.0Q378 588 408.5 542.0Q439 496 439 425Q439 354 406.0 294.0Q373 234 314 197Q348 166 380.0 130.0Q412 94 439 60L340 -8Q300 44 265.0 84.0Q230 124 200 154Q169 149 136 149ZM670 512V0H536V512H461V622H764V512Z" fill="url(#gold)"/></g>
+  <circle cx="32" cy="10.4" r="2.3" fill="#c92c47"/>
+</svg>
